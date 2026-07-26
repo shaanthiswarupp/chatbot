@@ -1,0 +1,35 @@
+# ==============================
+# LangChain Framework
+# ==============================
+langchain
+
+# LangGraph - Build AI agent workflows
+langgraph
+
+# Community integrations (document loaders, vector stores, etc.)
+langchain_community
+
+# Core LangChain classes and interfaces
+langchain_core
+
+# Groq LLM integration
+langchain_groq
+
+# OpenAI LLM integration
+langchain_openai
+
+# FAISS vector database for similarity search
+faiss-cpu
+
+# Streamlit for creating web applications
+streamlit
+
+# Tavily Search API integration
+tavily-python
+
+
+
+
+
+
+#  py -m pip install -r lib.txt
